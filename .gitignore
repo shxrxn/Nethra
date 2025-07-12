@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.tflite
+*.log
+.env
+nethra_env/
