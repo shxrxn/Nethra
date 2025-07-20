@@ -1,0 +1,7 @@
+{
+  "user_id": "test_user_123", 
+  "device_info": {
+    "os": "android", 
+    "app_version": "1.0.0"
+  }
+}
